@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39368
     wikipedia: http://en.wikipedia.org/wiki/Louise_Imogen_Guiney
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32986#Thomas-Stanley--His-Original-Lyrics-Complete-In-Their-Collated-Readings-of-1647-1651-1657.--1_
 gutenberg_issued: '2010-06-27'
 gutenberg_type: Text
 identifiers:
