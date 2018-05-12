@@ -1,0 +1,41 @@
+_repo: Thomas-Stanley--His-Original-Lyrics-Complete-In-Their-Collated-Readings-of-1647-1651-1657.--1__32986
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stanley, Thomas
+    birthdate: 1625
+    deathdate: 1678
+    gutenberg_agent_id: '36145'
+    url: http://www.gutenberg.org/2009/agents/36145
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Stanley_%28author%29
+  editor:
+    agent_name: Guiney, Louise Imogen
+    aliases:
+    - Guiney, L.I.
+    - Guiney, L. I.
+    birthdate: 1861
+    deathdate: 1920
+    gutenberg_agent_id: '39368'
+    url: http://www.gutenberg.org/2009/agents/39368
+    wikipedia: http://en.wikipedia.org/wiki/Louise_Imogen_Guiney
+description: ''
+gutenberg_issued: '2010-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32986'
+  lccn: '12027871'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- Early modern, 1500-1700'
+- !lcsh 'Stanley, Thomas, 1625-1678'
+- !lcc 'PR'
+title: "Thomas Stanley:  His Original Lyrics, Complete, In Their Collated Readings\
+  \ of 1647, 1651, 1657.\r\nWith an Introduction, Textual Notes, a List of Editions,\
+  \ an Appendix of Translations, and a Portrait."
+url: http://www.gutenberg.org/ebooks/32986
